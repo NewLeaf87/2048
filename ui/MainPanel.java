@@ -13,7 +13,7 @@ import entity.Tile;
 
 public class MainPanel extends JPanel{
 	
-	//private static final long serialVersionUID = 0;
+	
 	
 	private MainFg mainFg;
 	private Score score;
